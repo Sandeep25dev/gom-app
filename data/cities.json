@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Kolkata",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 22.574111296460103,
+        "lng": 88.3685302734375
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 12.969879452696158,
+        "lng": 77.5902557373047
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    }
+  ]
+}
