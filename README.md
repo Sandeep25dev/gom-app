@@ -1,8 +1,10 @@
 # TO GET STARTED WITH THIS APP... FOLLOW THE MENTIONED INSTRUCTIONS BELOW.
 
-## This site has some comments in order to make it work for every system and to avoid some unneccessary hassle to configure it.
+### First Clone this repository for better understanding of the app and it's working proccess.
 
-### After cloning this repo, run `npm run server` to start the fake api server.
+### After cloning this repo, run `npm install` to install the required dependencies.
+
+### Then run `npm run server` to start the fake api server.
 
 ### Then run `npm run dev` to start the server in your browser.
 
@@ -21,6 +23,8 @@
 3. When later you will tap on those lists in cities, those information will be shown to you like the City Name, Date of your visit, your note about that place and also an wikipedia link for that place to know more about that place.
 
 ### This App is not responsive yet but will surely make it responsive to all devices.
+
+## This site has some comments in order to make it work for every system and to avoid some unneccessary hassle to configure it.
 
 # React + Vite
 
