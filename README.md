@@ -1,12 +1,8 @@
 # TO GET STARTED WITH THIS APP... FOLLOW THE MENTIONED INSTRUCTIONS BELOW.
 
-### First Clone this repository for better understanding of the app and it's working proccess.
+### Go to this Live Link of this application:
 
-### After cloning this repo, run `npm install` to install the required dependencies.
-
-### Then run `npm run server` to start the fake api server.
-
-### Then run `npm run dev` to start the server in your browser.
+https://gom-app.netlify.app/
 
 ### In the LOGIN form the credententials are already filled up, In case you don't find it, here's those credentials:-
 
